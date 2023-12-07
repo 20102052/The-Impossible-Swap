@@ -1,0 +1,43 @@
+<mxfile host="app.diagrams.net" modified="2023-12-07T18:17:51.000Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="IpjveEA3jnKpjX8aBe4Q" version="22.1.7" type="device">
+  <diagram name="Page-1" id="0q8kF4cLTKVzlhyX3PUR">
+    <mxGraphModel dx="1050" dy="557" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ZzzZDwMfpB1UVeQb-sID-8" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="90" width="770" height="400" as="geometry" />
+        </mxCell>
+        <mxCell id="ZzzZDwMfpB1UVeQb-sID-10" value="&lt;b&gt;Sir Rhys&#39; Work Building&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="390" y="280" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZzzZDwMfpB1UVeQb-sID-11" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="720" y="500" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZzzZDwMfpB1UVeQb-sID-12" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="560" y="10" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZzzZDwMfpB1UVeQb-sID-13" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="410" y="20" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZzzZDwMfpB1UVeQb-sID-14" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="160" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZzzZDwMfpB1UVeQb-sID-16" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="405" y="502" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZzzZDwMfpB1UVeQb-sID-17" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="130" y="510" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZzzZDwMfpB1UVeQb-sID-18" value="Text" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="390" y="530" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZzzZDwMfpB1UVeQb-sID-19" value="&lt;b&gt;Enemies&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="390" y="600" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZzzZDwMfpB1UVeQb-sID-20" value="&lt;b&gt;Enemies&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="250" y="25" width="60" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
